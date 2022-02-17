@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dnight",
+    "slug": "dnight",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dnight"
+}
